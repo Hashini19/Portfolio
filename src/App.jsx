@@ -71,7 +71,7 @@ export default function App() {
       tech: "Vite, React, Tailwind CSS",
       desc: "Developed a modern, responsive personal portfolio website featuring interactive animations, direct Gmail compose integration, and project showcase.",
       image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/Hashini19/Portfolio.git",
       demo: "Portfolio.mp4"
     },
     {
@@ -80,7 +80,7 @@ export default function App() {
       tech: "Vite, React, MySQL",
       desc: "Developing a centralized platform to improve communication and streamline academic and administrative services for students and staff.",
       image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/shehan4001/unisphere-nova-solution.git",
       demo: "CampusHub.mp4"
     },
     {
@@ -98,7 +98,7 @@ export default function App() {
       tech: "Java / VS Code",
       desc: "Developed a booking application for managing movie schedules, seat reservations and ticket bookings.",
       image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/Hashini19/Cinema-Booking-System.git",
       demo: "Cinema booking.mp4"
     },
     {
@@ -107,7 +107,7 @@ export default function App() {
       tech: "C# / Unity",
       desc: "Developed a 3D game featuring multiple levels and interactive challenges designed to enhance player engagement.",
       image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/Hashini19/3D-Game.git",
       demo: "3D Game.mp4"
     },
     {
@@ -116,7 +116,7 @@ export default function App() {
       tech: "Java / Eclipse",
       desc: "Developed a banking application for managing customer accounts, transactions and basic financial operations.",
       image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/Hashini19/Banking-System.git",
       demo: "Simple banking System.mp4"
     },
     {
@@ -125,7 +125,7 @@ export default function App() {
       tech: "HTML, CSS, JavaScript, PHP",
       desc: "Developing a mock e-commerce website simulating product listings, online-shopping features and user interactions.",
       image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?q=80&w=600",
-      github: "https://github.com/Hashini19",
+      github: "https://github.com/Hashini19/E-Commerce-System.git",
       demo: "/ecommerce-demo.mp4"
     }
   ];
